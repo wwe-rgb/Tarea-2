@@ -2,7 +2,7 @@ package ico.fes.aragon.unam.clases;
 
 import java.util.Objects;
 
-public class Perro implements Perro2 {
+public class Perro  {
     private String raza;
     private int edad;
     private String color;
